@@ -1,5 +1,28 @@
-## Hi there 👋
+## Acerca De Mí 
 
+Soy Diego Alonso Sariñana Gutierrez, analista con doble perfil: datos y finanzas. Trabajo en la intersección donde los números dejan de ser reportes y se convierten en decisiones.
+
+Combino modelado financiero, análisis exploratorio y visualización para entregar respuestas claras — no dashboards decorativos. Mi obsesión: que cada insight tenga un dueño, una acción y un impacto medible.
+
+### Habilidades Técnicas
+
+- **Lenguajes:** SQL, Python
+- **Análisis:** pandas, NumPy, A/B Testing
+- **Visualización: Tableau, Power BI**
+- **Herramientas: Excel/Sheets, Jupyter**
+
+### Habilidades Complementarias
+
+- Comunicación de Hallazgos
+- Pensamiento Crítico
+- Trabajo en Equipo
+- Adaptabilidad
+
+### Contacto
+
+- Email: sarinanadiegoal@gmail.com
+- LinkedIn: in/diego-sariñana
+- Teléfono: +52 618-228-5224
 <!--
 **Diego-Sarinana/Diego-Sarinana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
