@@ -21,7 +21,7 @@ Combino modelado financiero, análisis exploratorio y visualización para entreg
 ### Contacto ✉️📞
 
 - Email: sarinanadiegoal@gmail.com
-- LinkedIn: [![Open In Linkedin](www.linkedin.com/in/diego-sariñana)
+- LinkedIn: [![Open In LinkedIn](www.linkedin.com/in/diego-sariñana)
 - Teléfono: +52 618-228-5224
 <!--
 **Diego-Sarinana/Diego-Sarinana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
