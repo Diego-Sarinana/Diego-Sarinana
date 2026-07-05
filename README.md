@@ -22,7 +22,8 @@ Combino modelado financiero, análisis exploratorio y visualización para entreg
 
 - Email: sarinanadiegoal@gmail.com
 - Teléfono: +52 618-228-5224
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-sariñana)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-sariñana)
 <!--
 **Diego-Sarinana/Diego-Sarinana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
